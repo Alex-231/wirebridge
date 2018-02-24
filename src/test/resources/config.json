@@ -13,5 +13,12 @@
     "username" : "postgres",
     "password" : "password",
     "driver" : "jdbc:postgresql"
+  },{
+    "name" : "mongo",
+    "host" : "127.0.0.1:27017",
+    "database" : "talks",
+    "username" : "root",
+    "password" : "password",
+    "driver" : "jdbc:mongodb"
   }]
 }
